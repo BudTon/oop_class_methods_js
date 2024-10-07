@@ -8,7 +8,7 @@
 
 ## Методы
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/m5ii2kd8fwwjpc5h?svg=true)](https://ci.appveyor.com/project/BudTon/oop-class-methods-js)
 
 ### Легенда
 
